@@ -1,4 +1,4 @@
-## Hi there 👋
+# About Me 👋
 
 <!--
 **danielaleki/danielaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Daniel Aleki 👋
+I'm a motivated and passionate software developer currently pursuing a Bachelor degree in Computer Science (DEC-BAC Pathway) at Université de Sherbrooke. I thrive on projects that push me to continuously expand my expertise and elevate my skills, whether it's developing real-time multiplayer games or architecting robust cloud-based applications.
+
+💻 Check out some of my projects below, like:
+-
+-
+-
+
