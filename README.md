@@ -18,8 +18,8 @@ Hi, I'm Daniel Aleki 👋
 I'm a motivated and passionate software developer currently pursuing a Bachelor degree in Computer Science (DEC-BAC Pathway) at Université de Sherbrooke. I thrive on projects that push me to continuously expand my expertise and elevate my skills, whether it's developing real-time multiplayer games or architecting robust cloud-based applications.
 
 💻 Check out some of my projects below, like:
--
--
+- A real-time Chat application
+- 
 -
 
 ## 🛠 Tech Stack:
@@ -34,6 +34,7 @@ I'm a motivated and passionate software developer currently pursuing a Bachelor 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaleki&show_icons=true&theme=radical)
