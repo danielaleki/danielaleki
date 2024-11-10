@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Daniel Aleki 👋
-I'm a motivated and passionate software developer currently pursuing a Bachelor degree in Computer Science (DEC-BAC Pathway) at Université de Sherbrooke. I thrive on projects that push me to continuously expand my expertise and elevate my skills, whether it's developing real-time multiplayer games or architecting robust cloud-based applications.
+I'm a motivated and passionate software developer currently pursuing a Bachelor degree in Computer Science (DEC-BAC Pathway) at Université de Sherbrooke after a DEC in Computer Science at Cegep Edouard-MontPetit. I thrive on projects that push me to continuously expand my expertise and elevate my skills, whether it's developing real-time multiplayer games or architecting robust cloud-based applications.
 
 💻 Check out some of my projects below, like:
 - A real-time Chat application
 - 
 -
+
+🌱 I’m always eager to explore new technologies and collaborate on impactful projects. Don’t hesitate to connect!
 
 ## 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
