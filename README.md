@@ -38,6 +38,7 @@ I'm a motivated and passionate software developer currently pursuing a Bachelor 
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaleki&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielaleki&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ## 💻 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielaleki&layout=compact&theme=radical)
