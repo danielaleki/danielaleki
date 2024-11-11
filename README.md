@@ -19,8 +19,8 @@ I'm a motivated and passionate software developer currently pursuing a Bachelor 
 
 💻 Check out some of my projects below, like:
 - A real-time Chat application
-- 
--
+- Task Management App for mobile
+- real-time Card game web application
 
 🌱 I’m always eager to explore new technologies and collaborate on impactful projects. Don’t hesitate to connect!
 
