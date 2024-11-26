@@ -38,6 +38,9 @@ I'm a motivated and passionate software developer currently pursuing a Bachelor 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/<danielaleki>/<danielaleki>/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielaleki&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielaleki&theme=dark&date_format=j%20M%5B%20Y%5D)
